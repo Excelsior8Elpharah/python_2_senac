@@ -12,3 +12,4 @@ else:
     salario = salario
 print(f"Seu descontos é : {desconto}")
 print(f"Seu salario com desconto é: {sal_desc}")
+
